@@ -97,25 +97,6 @@ This project is deployed using **Vercel**:
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots here if needed*
-
----
-
-## 🙋‍♀️ Author
-
-* GitHub: https://github.com/YOUR_USERNAME
-
----
-
-## ⭐ Notes
-
-* Make sure environment variables are set correctly in Vercel
-* Without Supabase keys, the app will show a blank screen
-
----
-
 ## 💡 Future Improvements
 
 * 🔐 Authentication (Login/Signup)
