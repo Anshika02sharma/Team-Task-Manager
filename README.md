@@ -104,5 +104,3 @@ This project is deployed using **Vercel**:
 * 🧑‍🤝‍🧑 Multi-user collaboration
 
 ---
-
-Clean version without branding.
