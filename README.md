@@ -1,4 +1,4 @@
-# Team Task Manager
+
 # 🚀 Team Task Manager
 
 A simple full-stack task management web application built using **React (Vite)** and **Supabase**.
